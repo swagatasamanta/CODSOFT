@@ -1,0 +1,3 @@
+Hello, My name is Swagata Samanta.
+I got internship at CodSoft in C++ programming.
+This is my task four where I have to write a program.
